@@ -42,7 +42,7 @@ https://github.com/rafaelmardojai/firefox-gnome-theme
 You can also install this theme with one command:
 
 ```sh
-curl -s -o- https://raw.githubusercontent.com/giovannicaligaris/firefox-phosh-theme/master/scripts/install-by-curl.sh | bash
+curl -s -o- https://raw.githubusercontent.com/giovannicaligaris/firefox-phosh-theme/main/scripts/install-by-curl.sh | bash
 ```
 
 It will download the latest version of the theme and run the auto installation script for you.
