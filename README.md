@@ -22,7 +22,7 @@ https://github.com/rafaelmardojai/firefox-gnome-theme
 1. Clone this repo and enter folder:
 	
 	```sh
-	git clone https://github.com/giovannicaligaris/firefox-phosh-theme && cd firefox-gnome-theme
+	git clone https://github.com/giovannicaligaris/firefox-phosh-theme && cd firefox-phosh-theme
 	```
 2. Run installation script
 
