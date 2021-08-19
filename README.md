@@ -16,7 +16,8 @@
 
 ## Description
 
-This is a bunch of CSS code to make Firefox look closer to GNOME's native apps.
+This is a fork of Firefox GNOME Theme.
+https://github.com/rafaelmardojai/firefox-gnome-theme
 
 
 ### Firefox versions support
@@ -34,15 +35,9 @@ We also have the `beta` branch for fixes only aplicable to the current Firefox b
 1. Clone this repo and enter folder:
 	
 	```sh
-	git clone https://github.com/rafaelmardojai/firefox-gnome-theme && cd firefox-gnome-theme
+	git clone https://github.com/giovannicaligaris/firefox-phosh-theme && cd firefox-gnome-theme
 	```
-2. Checkout a git branch or tag if needed, otherwise use `master` and ignore this step. 
-	```sh
-	git checkout beta # Set beta branch 
-	git checkout v78.1 # Set v78.1 tag 
-	```
-
-3. Run installation script
+2. Run installation script
 
 	#### Auto install script
 	
@@ -97,7 +92,7 @@ It will download the latest version of the theme and run the auto installation s
 5. Clone this repo to a subdirectory:
 
 	```sh
-	git clone https://github.com/rafaelmardojai/firefox-gnome-theme.git
+	git clone https://github.com/giovannicaligaris/firefox-phosh-theme.git
 	```
 
 6. Create single-line user CSS files if non-existent or empty (at least one line is needed for `sed`):
@@ -109,7 +104,7 @@ It will download the latest version of the theme and run the auto installation s
 7. Import this theme at the beginning of the CSS files (all `@import`s must come before any existing `@namespace` declarations):
 
 	```sh
-	sed -i '1s/^/@import "firefox-gnome-theme\/userChrome.css";\n/' userChrome.css
+	sed -i '1s/^/@import "firefox-phosh-theme\/userChrome.css";\n/' userChrome.css
 	```
 
 8. Symlink preferences file:
