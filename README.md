@@ -7,8 +7,8 @@
 
 <p align="center">This theme follows lastest GNOME Adwaita style.</p>
 
-![Screenshot of the theme](firefox-phosh1.png width=50% height=50%)
-![Screenshot of the theme](firefox-phosh2.png width=50% height=50%)
+<img src="firefox-phosh1.png" width=50% height=50%>
+<img src="firefox-phosh2.png" width=50% height=50%>
 
 ## Description
 
