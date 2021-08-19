@@ -39,21 +39,21 @@ function saveProfile(){
 	# Create single-line user CSS files if non-existent or empty.
 	if [ -s userChrome.css ]; then
 		# Remove older theme imports
-		sed 's/@import "firefox-gnome-theme.*.//g' userChrome.css | sed '/^\s*$/d' > userChrome.css
+		sed 's/@import "firefox-phosh-theme.*.//g' userChrome.css | sed '/^\s*$/d' > userChrome.css
 		echo >> userChrome.css
 	else
 		echo >> userChrome.css
 	fi
 
 	# Import this theme at the beginning of the CSS files.
-	sed -i '1s/^/@import "firefox-gnome-theme\/userChrome.css";\n/' userChrome.css
+	sed -i '1s/^/@import "firefox-phosh-theme\/userChrome.css";\n/' userChrome.css
 
 	if [ $THEME = "DEFAULT" ]; then
 		echo "No theme set, using default adwaita."
 	else
 		echo "Setting $THEME theme."
-		echo "@import \"firefox-gnome-theme\/theme/colors/light-$THEME.css\";" >> userChrome.css
-		echo "@import \"firefox-gnome-theme\/theme/colors/dark-$THEME.css\";" >> userChrome.css
+		echo "@import \"firefox-phosh-theme\/theme/colors/light-$THEME.css\";" >> userChrome.css
+		echo "@import \"firefox-phosh-theme\/theme/colors/dark-$THEME.css\";" >> userChrome.css
 	fi
 
 	cd ..
