@@ -1,5 +1,5 @@
 /* user.js
- * https://github.com/rafaelmardojai/firefox-gnome-theme/
+ * https://github.com/giovannicaligaris/firefox-phosh-theme/
  */
 
 // Enable customChrome.css
