@@ -5,6 +5,9 @@
 /* Adjust Firefox to mobile screens */
 @import "theme/mobile-config-firefox.css";
 
+/* Fit theme to screen */
+@import "theme/mobile-theme.css";
+
 /* Import a custom stylesheet
  * Everything you add in your customChrome.css file (it doesn't exist by
  * default) will be included here and preserved between updates. 
