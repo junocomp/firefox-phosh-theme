@@ -58,9 +58,9 @@ function saveProfile(){
 
 	cd ..
 
-	# Symlink user.js to firefox-gnome-theme one.
+	# Symlink user.js to firefox-phosh-theme one.
 	echo "Set configuration user.js file"
-	ln -fs chrome/firefox-gnome-theme/configuration/user.js user.js
+	ln -fs chrome/firefox-phosh-theme/configuration/user.js user.js
 
 	echo "Done."
 	cd ..
