@@ -11,7 +11,8 @@
 
 <p align="center">This theme follows lastest GNOME Adwaita style.</p>
 
-![Screenshot of the theme](screenshot.png)
+![Screenshot of the theme](firefox-phosh1.png)
+![Screenshot of the theme](firefox-phosh2.png)
 
 ## Description
 
