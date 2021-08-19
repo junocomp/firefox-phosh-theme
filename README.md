@@ -20,15 +20,6 @@ This is a fork of Firefox GNOME Theme.
 https://github.com/rafaelmardojai/firefox-gnome-theme
 
 
-### Firefox versions support
-
-The `master` branch of this repo supports the current Firefox stable release `91`.
-
-Theme versions complatible with older Firefox releases are preserved as git tags. Use the `v78.1` tag for Firefox 78 ESR support.
-
-We also have the `beta` branch for fixes only aplicable to the current Firefox beta version.
-
-
 ## Installation
 
 ### Installation script
