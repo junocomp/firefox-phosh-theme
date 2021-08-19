@@ -1,0 +1,12 @@
+
+/* Import theme */
+@import "theme/gnome-theme.css";
+
+/* Adjust Firefox to mobile screens */
+@import "theme/mobile-config-firefox.css";
+
+/* Import a custom stylesheet
+ * Everything you add in your customChrome.css file (it doesn't exist by
+ * default) will be included here and preserved between updates. 
+ * You can apply your own custom styles in that file. */
+@import "customChrome.css"; /**/
