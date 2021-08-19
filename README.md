@@ -52,7 +52,7 @@ It will download the latest version of the theme and run the auto installation s
 
 Download the following Addons and enable them:
 
-Mobile View Switcher: https://addons.mozilla.org/en-US/firefox/addon/mobile-view-switcher/
-Pull to Refresh: https://addons.mozilla.org/en-US/firefox/addon/pull-to-refresh-for-browsers/
-Load Progress Bar: https://addons.mozilla.org/en-US/firefox/addon/load-progress-bar/
-Hide-scrollbars: https://addons.mozilla.org/en-US/firefox/addon/hide-scrollbars/
+<p>Mobile View Switcher: https://addons.mozilla.org/en-US/firefox/addon/mobile-view-switcher/
+<br>Pull to Refresh: https://addons.mozilla.org/en-US/firefox/addon/pull-to-refresh-for-browsers/
+<br>Load Progress Bar: https://addons.mozilla.org/en-US/firefox/addon/load-progress-bar/
+<br>Hide-scrollbars: https://addons.mozilla.org/en-US/firefox/addon/hide-scrollbars/</p>
