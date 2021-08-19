@@ -7,7 +7,7 @@
 [![Donate](https://img.shields.io/badge/PayPal-Donate-gray.svg?style=flat&logo=paypal&colorA=0071bb&logoColor=fff)](https://paypal.me/RafaelMardojaiCM)
 [![Liberapay](https://img.shields.io/liberapay/receives/rafaelmardojai.svg?logo=liberapay)](https://liberapay.com/rafaelmardojai/donate)
 
-<p align="center"><strong>A GNOME theme for Firefox</strong></p>
+<p align="center"><strong>A Firefox theme for Phosh</strong></p>
 
 <p align="center">This theme follows lastest GNOME Adwaita style.</p>
 
