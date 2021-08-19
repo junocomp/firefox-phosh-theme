@@ -1,6 +1,6 @@
 <h1 align="center">
 	<img src="icon.svg" alt="Firefox PHOSH theme" width="100" height="100"/><br>
- Firefox GNOME theme
+ Firefox Phosh Theme
 </h1>
 
 <p align="center"><strong>A Firefox theme for Phosh</strong></p>
