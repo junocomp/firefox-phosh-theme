@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img src="icon.svg" alt="Firefox GNOME theme" width="100" height="100"/><br>
+	<img src="icon.svg" alt="Firefox PHOSH theme" width="100" height="100"/><br>
  Firefox GNOME theme
 </h1>
 
