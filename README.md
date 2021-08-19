@@ -37,16 +37,6 @@ https://github.com/rafaelmardojai/firefox-gnome-theme
 	./scripts/install.sh -f ~/.var/app/org.mozilla.firefox/.mozilla/firefox # Flatpak
 	```
 
-### One command curled script
-
-You can also install this theme with one command:
-
-```sh
-curl -s -o- https://raw.githubusercontent.com/giovannicaligaris/firefox-phosh-theme/main/scripts/install-by-curl.sh | bash
-```
-
-It will download the latest version of the theme and run the auto installation script for you.
-
 ### Extensions recommended
 
 Download the following Addons and enable them:
